@@ -62,7 +62,6 @@ body{
 }
 /* work-section */
 .work-img{
-    width: 30%;
     overflow: hidden;
 }
 .work-img img{
